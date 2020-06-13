@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ProductBoot">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="freesqlhosting" password="Pf8lueSJ2u" type="javax.sql.DataSource" url="jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7347217?zeroDateTimeBehavior=convertToNull" username="sql7347217"/>
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="localhost" password="2410571553k" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/users?zeroDateTimeBehavior=convertToNull&amp;serverTimezone=UTC" username="root"/>
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="sdas" password="AFDEmp_MySQL1" type="javax.sql.DataSource" url="jdbc:mysql://ra1.anystream.eu:3012/supermarket?zeroDateTimeBehavior=convertToNull" username="root"/>
+</Context>
